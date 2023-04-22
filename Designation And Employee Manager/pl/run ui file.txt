@@ -1,0 +1,2 @@
+java -classpath build\libs\pl.jar;.\..\bl\build\libs\bl.jar;.\..\dl\dist\hr-dl-1.0.jar;.\..\common\dist\hr-common.jar;itext7\*;. com.chayan.mulewa.hr.pl.main.Main
+java -classpath build\libs\pl.jar;.\..\bl\build\libs\bl.jar;.\..\dbdl\build\libs\dbdl.jar;.\..\common\dist\hr-common.jar;itext7\*;.\..\dbdl\MySQLConnector\mysql.jar;. com.chayan.mulewa.hr.pl.main.Main

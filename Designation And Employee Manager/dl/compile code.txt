@@ -1,0 +1,3 @@
+javac -d ..\classes com\chayan\mulewa\hr\dl\dao\*.java
+javac -d ..\classes com\chayan\mulewa\hr\dl\dto\*.java
+javac -classpath ..\classes;. *.java
